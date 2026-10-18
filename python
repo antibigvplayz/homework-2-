@@ -1,0 +1,100 @@
+#homework 2(full)
+
+#1
+num1 = 100
+num2 = 900
+num3 = 1000
+
+print(num1 + num2 + num3)
+
+
+#2
+
+# შეკრება
+print(5 + 5)
+print(10 + 10)
+print(20 + 20)
+
+# გამოკლება
+print(10 - 5)
+print(20 - 10)
+print(50 - 30)
+
+# გამრავლება
+print(5 * 5)
+print(10 * 10)
+print(20 * 20)
+
+# გაყოფა
+print(10/2)
+print(20/5)
+print(40/20)
+
+# მთელი რიცხვზე გაყოფა
+print(10//2)
+print(20//5)
+print(40//20)
+
+
+#3
+#what texts are in these strings are random names , age , city , hobby and favourite color. write it the way you like
+name = "saba"
+age = "11"
+city = "tbilisi"
+hobby = "programming"
+fav_color = "blue"
+
+print("hello my name is " + name + " i am " + age + " years old. i live in " + city + " and my hobby is " + hobby + " and my favourite color is " + fav_color + ". what about you?")
+
+
+#4
+#string:
+print("hello")
+print("world")
+print("color")
+print("code")
+print("georgia")
+
+#integer:
+print(10)
+print(20)
+print(30)
+print(40)
+print(50)
+
+#float:
+print(1.5)
+print(2.5)
+print(3.5)
+print(4.5)
+print(5.6)
+
+
+#5
+#ცვლადი(variable) - არის სახელი რომელსაც მონაცემების შესანახად ვიყენებთ. ცვლადი
+#ვიდე ინფორმაციის შესანახად გვჭირდება, და თუ დაგვჭირდება შეგვიძლია მისი
+#მნიშვნელობის შეცვლა.
+
+#მაგ:
+fav_color = "blue"
+
+
+
+#6
+#string - მონაცემთა ტიპი, რომელიც გამოიყენება ტექსტის შესანახად. ტექსტი
+#იწერება ერთ ან ორმაგ ბრჭყალებში
+
+name = "saba"
+
+#integer - მონაცემთა ტიპი, რომელიც გამოიყენება მთელი რიცხვების
+#შესანახად. ასეთი რიცხვებს არ აქვთ ათწილადი
+
+age = 11
+
+#float - მონაცემთა ტიპი, რომელიც გამოიყენება ათწილადი რიცხვების
+#შესანახად. ასეთ რიცხვებში მთელი და წილადი ნაწილები წერტილით
+#გამოიყოფა
+
+height = 1.55
+
+
